@@ -41,7 +41,7 @@ service-request-api/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/service-request-api.git
+git clone https://github.com/mube1ena/service-request-api.git
 cd service-request-api
 ```
 
